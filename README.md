@@ -1,2 +1,0 @@
-# NMID
-daily test
