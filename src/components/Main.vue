@@ -1,11 +1,12 @@
 <template>
- <router-view></router-view>
+<div>
+    登录成功
+</div>
 </template>
 
 <script>
 
 </script>
-
 <style>
 
 </style>
